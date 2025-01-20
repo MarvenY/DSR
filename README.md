@@ -6,7 +6,7 @@
     
 </head>
 <body>
-    <h1>CSV File Viewer by Marven Younes</h1>
+    <h1>CSV/Dataset File Viewer by Marven Younes</h1>
     <p>
         A Windows Forms Application that allows users to load, view, and search large CSV files efficiently. 
         The application features a progress bar to show file-loading progress and includes a search bar for 
